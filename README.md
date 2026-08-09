@@ -31,5 +31,5 @@ This project was created as an exercise to master fundamental layout techniques,
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/Yashasvi-SinghSaini/googleHomePage_Rep.git]
+   git clone https://github.com/Yashasvi-SinghSaini/googleHomePage_Rep.git
    
