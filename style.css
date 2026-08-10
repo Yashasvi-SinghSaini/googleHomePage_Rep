@@ -68,7 +68,7 @@ body {
     font-weight: 500;
 }
 #foot{
-    position:fixed;
+    position: relative;
     background-color: #191A1E;
     color:white;
     bottom:0;
