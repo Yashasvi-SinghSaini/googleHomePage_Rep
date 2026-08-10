@@ -54,7 +54,7 @@ html, body{
     font-size: 45px;
 }
 #foot{
-    position:fixed;
+    position: relative;
     background-color: #191A1E;
     color:white;
     bottom:0;
