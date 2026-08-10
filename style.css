@@ -96,3 +96,14 @@ body {
 #leftBotText{
     display: inline;
 }
+#searchDiv{
+    display: flex;
+    justify-content: center;
+}
+#search{
+    background-color: #5f6368;
+    border-radius: 2em;
+    height: 10vh;
+    border: none;
+    width: 60vw;
+}
