@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    width: 100%;
+    height: 100%;
+}
+
+#headList{
+    align-items: center;
+    display: flex;
+    height: 10vh;
+    background-color: aliceblue;
+    padding: 6px;
+    column-gap: 10px;
+}
+
+#leftTopText{
+    align-items: center;
+    justify-content: right;
+    width: 100%;
+    height: 10vh;
+    background-color:brown;
+    display: flex;
+    right:0;
+    column-gap: 10px;
+}
+
