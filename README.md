@@ -8,7 +8,8 @@ This project was created as an exercise to master fundamental layout techniques,
 
 ## 📸 Demo & Screenshots
 
-> Coming Soon
+> <img width="1366" height="750" alt="image" src="https://github.com/user-attachments/assets/46a7f1d4-a9ba-4583-91f2-b763a4e58cbe" />
+
 
 ## 🎯 Key Learning Objectives & Features
 
