@@ -53,4 +53,32 @@ html, body{
 #accCircle{
     font-size: 45px;
 }
+#foot{
+    position:fixed;
+    background-color: #191A1E;
+    color:white;
+    bottom:0;
+    width:100vw;
+    height: auto;
 
+}
+
+.botText{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color:#E8E8E8;
+
+    margin:5px;
+    padding: 5px;
+    text-decoration:none;
+}
+
+#footLine{
+    margin:1em;
+}
+#rightBotText{
+    display: inline;
+}
+#leftBotText{
+    display: inline;
+}
