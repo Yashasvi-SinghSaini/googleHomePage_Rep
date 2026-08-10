@@ -57,3 +57,14 @@ body {
 #accCircle {
     font-size: 45px;
 }
+#logo{
+    height: 30vh;
+    width: 100vw;
+    background-color: #22242a;
+    color: white;
+    font-size: 5.5em;
+    text-align: center;
+    font-family: poppins, 'Outfit', sans-serif;
+    font-weight: 400;
+}
+
