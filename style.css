@@ -74,6 +74,8 @@ body {
     bottom:0;
     width:100vw;
     height: auto;
+    margin-bottom:100%;
+    padding-bottom: 5vh;
 
 }
 
@@ -83,8 +85,12 @@ body {
     color:#E8E8E8;
 
     margin:5px;
+
     padding: 5px;
     text-decoration:none;
+}
+#ind{
+    margin-left: 5vw;
 }
 
 #footLine{
@@ -92,9 +98,14 @@ body {
 }
 #rightBotText{
     display: inline;
+    float:right;
+    margin:0vw 20vw;
+    
 }
 #leftBotText{
     display: inline;
+    float:left;
+    margin:0vw 5vw;
 }
 #searchDiv{
     display: flex;
@@ -160,8 +171,10 @@ body {
 
 }
 
-#aimodeico{
-    font-size: 20px;
+#ico{
+    padding-top: 3px;
+    padding-right: 3px;
+    font-size: 15px;
 }
 #searchBelow{
     justify-content: center;
@@ -169,11 +182,26 @@ body {
 }
 
 .sbText{
+    align-self: center;
     background-color: #2c2e35;
-    padding: 1vw;
+    padding: 1vw 1vw 1vw 1vw;
     border-radius: 24px;
     color:white;
     font-family: Arial, sans-serif;
     font-size: 15px;
-    margin:5vh 1vh 20vh 1vh;
+    margin:5vh 1vh 5vh 1vh;
+}
+
+#langcon{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    margin-bottom: 20vh;
+}
+
+.lang{
+    color:#99C3FF;
+    text-decoration: none;
 }
